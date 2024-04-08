@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Serena from Molfetta(BA) Italy<br><br>- 🔭 I’m actually a Full Stack Dev Student in Epicode<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...<br>-  ​💻​I'm always open to new collaboration opportunities and learning with other developers<br>- 📫 You can reach me via email: serena.siliberti@gmail.com</p>
+<p align="left">I'm Serena from Molfetta(BA) Italy<br><br>- 🔭 I’m actually a Full Stack Dev Student in Epicode<br>- 📚 I'm currently learning React, Javascript, Php <br>- ​💻​I'm always open to new collaboration opportunities and learning with other developers<br>- 📫 You can reach me via email: serena.siliberti@gmail.com</p>
 
 ###
 
